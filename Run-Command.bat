@@ -137,7 +137,7 @@ echo "118" Windows Features                                  / optionalfeatures
 echo "119" Windows Firewall                                  / firewall.cpl
 echo "120" Windows Journal                                   / journal
 echo "121" Windows Media Player                              / wmplayer
-echo "122" WWindows Memory Diagnostic Scheduler              / mdsched
+echo "122" Windows Memory Diagnostic Scheduler              / mdsched
 echo "123" Windows Mobility Center                           / mblctr
 echo "124" Windows PowerShell                                / powershell
 echo "125" Windows PowerShell ISE                            / powershell_ise
@@ -285,7 +285,7 @@ if "%run-cmd%"=="129" wuapp
 if "%run-cmd%"=="130" wusa
 if "%run-cmd%"=="131" wmimgmt.msc
 if "%run-cmd%"=="132" write
-if "%run-cmd%"=="133" xpsrchvw1
+if "%run-cmd%"=="133" xpsrchvwr
 if "%run-cmd%"=="0" exit
 goto menu
 Pause
