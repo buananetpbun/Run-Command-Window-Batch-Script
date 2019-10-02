@@ -253,11 +253,11 @@ if "%run-cmd%"=="97" systempropertiesprotection
 if "%run-cmd%"=="98" rstrui
 if "%run-cmd%"=="99" taskmgr
 if "%run-cmd%"=="100" taskschd.msc
-if "%run-cmd%"=="101" control.exe                   /name Microsoft.TaskbarandStartMenu
-if "%run-cmd%"=="102" control.exe                   /name Microsoft.Troubleshooting
+if "%run-cmd%"=="101" control.exe /name Microsoft.TaskbarandStartMenu
+if "%run-cmd%"=="102" control.exe /name Microsoft.Troubleshooting
 if "%run-cmd%"=="103" tpm.msc
 if "%run-cmd%"=="104" useraccountcontrolsettings
-if "%run-cmd%"=="105" control.exe                   /name Microsoft.UserAccounts
+if "%run-cmd%"=="105" control.exe /name Microsoft.UserAccounts
 if "%run-cmd%"=="106" utilman
 if "%run-cmd%"=="107" winver
 if "%run-cmd%"=="108" sndvol
