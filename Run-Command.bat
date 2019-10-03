@@ -9,7 +9,7 @@ echo  ==========================================================================
 echo  =                                                                                                      =
 echo  =  Run Command: A Complete List for Windows 7,8 and 10                                                 =
 echo  =  By: BuanaNET SECURE, Sept 2019                                                                      =
-echo  =  fb.com/buananet.pangkalanbun                                                                        =
+echo  =  fb.com/buananet.pbun                                                                                =
 echo  =                                                                                                      =
 echo  ========================================================================================================
 echo.
