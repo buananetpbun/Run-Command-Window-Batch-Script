@@ -14,11 +14,9 @@ The run command window is one of the fastest and most efficient ways to directly
  cls  
  echo.  
  echo ========================================================================================================  
- echo =                                                   =  
- echo = Run Command: A Complete List for Windows 7,8 and 10                         =  
- echo = By: BuanaNET SECURE, Sept 2019                                   =  
- echo = fb.com/buananet.pangkalanbun                                    =  
- echo =                                                   =  
+ echo = Run Command: A Complete List for Windows 7,8 and 10
+ echo = By: BuanaNET SECURE, Sept 2019
+ echo = fb.com/buananet.pangkalanbun
  echo ========================================================================================================  
  echo.  
  echo Select a task:  
