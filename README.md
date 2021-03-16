@@ -2,9 +2,9 @@
 
 The run command window is one of the fastest and most efficient ways to directly access a multitude of Windows' functions, without sifting through the Control Panel or other menus. We have compiled for you a comprehensive list of 133 commands, confirmed to work in Windows 7, Windows 8, and Windows 10.
 
-<img border="0" src="https://4.bp.blogspot.com/-b1QAIO0QycI/XZQ2RwSjyrI/AAAAAAAAAfQ/nBUKN0EXeus-SUj0ngsjyckwn3HSFu9igCLcBGAsYHQ/s1600/run%2Bwindows%2Bcommand%2B1.jpg" />
+![image](https://user-images.githubusercontent.com/42666125/111258974-9d548600-8650-11eb-9111-1ee33bb94192.png)
 
-<img border="0" src="https://1.bp.blogspot.com/-A4QlXyqsADg/XZQ2SB51MBI/AAAAAAAAAfU/PbkuqJfy_AMdn5pJXFzH761KgDK2d9IhACLcBGAsYHQ/s1600/run%2Bwindows%2Bcommand%2B2.jpg" />
+![image](https://user-images.githubusercontent.com/42666125/111258986-a2193a00-8650-11eb-9c38-45f3d3ab46c1.png)
 
 <pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> @echo off  
  mode con: cols=106   
